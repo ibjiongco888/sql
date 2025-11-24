@@ -54,7 +54,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+The approach which overwrites the old address is Type 1, and the one which preserves the history of address changes is Type 2.
 ```
 
 ***
